@@ -11,5 +11,5 @@ exclude_patterns:
   - "**/test/"
   - "**/tests/"
   - "**/vendor/"
-  - "**/docs/**/*"
+  - "**/docs/**"
 
