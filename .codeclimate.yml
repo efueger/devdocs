@@ -1,9 +1,14 @@
 version: "2"
 
 exclude_patterns:
-  - "spec/"
-  - "!spec/support/helpers"
-
-
-
-
+  - "config/"
+  - "db/"
+  - "dist/"
+  - "features/"
+  - "**/"node_modules/"
+  - "script/"
+  - "**/"spec/"
+  - "**/"test/"
+  - "**/"tests/"
+  - "**/"vendor/"
+  - "**/"docs/"
